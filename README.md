@@ -1,0 +1,2 @@
+# supervised_learning_models
+Design of a Linear Regression Model using Gradient Descent. The task was to develop a supervised learning model to regress IRIS plants’ sepal length and petal width from each other. The project was implemented in Python. Classification of IRIS plants using K Nearest Neighbor Algorithm. A KNN classifier was designed using Matlab. The value of k was chosen from 1 to 8 which results in a classification accuracy of 93 to 96 percent.
